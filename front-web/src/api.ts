@@ -2,6 +2,7 @@ import axios from "axios";
 import { OrderPayload } from "./Orders/types";
 
 const API_URL = process.env.REACT_APP_API_URL;
+//const mapboxToken = process.env.REACT_APP_ACCESS_TOKEN_MAP_BOX;
 const mapboxToken = "pk.eyJ1IjoiY2hhcmxpc3RvbnJvZHJpZ28iLCJhIjoiY2tqcnA4cXBuMDIwaTJ5bjNpdWZiZXhoMyJ9.8AnAJ7GHhuUBu_PsklUexQ"
 
 export function fetchProducts() {
