@@ -48,9 +48,7 @@ public class Order implements Serializable{
 		this.longitude = longitude;
 		this.moment = moment;
 		this.status = status;
-		
-		
-		
+			
 	}
 
 	public Long getId() {
