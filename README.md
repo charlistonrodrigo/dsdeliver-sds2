@@ -23,12 +23,7 @@ O front end faz requisições com o back end pelo protocolo da internet http : R
 <p align="center">
   <img width="400" src="Home.jpg"><br>
   <img width="400" src="Card.jpg/">
-  <img width="200" src="assets/"><br>
-  <img width="200" src="assets/">
-  <img width="200" src="assets/">
-  <img width="200" src="assets/">
-  
-  
+  <img width="200" src="Pedidos.jpg/">
 </P>
 
 ## Como execultar o projeto
