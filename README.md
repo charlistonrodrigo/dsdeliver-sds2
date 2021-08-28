@@ -27,5 +27,6 @@ O front end faz requisições com o back end pelo protocolo da internet http : R
   
 </P>
 
-## Como execultar o projeto
+
+
 
