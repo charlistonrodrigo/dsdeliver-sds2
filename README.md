@@ -28,7 +28,7 @@ O front end faz requisições com o back end pelo protocolo da internet http : R
 
 ## Layout mobile
 <p align="center">
-   <img width="400" src="Home_Mobile.jpg">      
+   <img width="200" src="Home_Mobile.jpg">      
    <img width="400" src="Pedidos.jpg/"><br> 
 </P>         
 
