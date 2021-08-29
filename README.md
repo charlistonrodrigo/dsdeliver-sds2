@@ -19,14 +19,16 @@ básicas: - Controladores Rest
          - Camadas de acesso a dados.
 O front end faz requisições com o back end pelo protocolo da internet http : Rest/Json.         
 
-## Layout
+## Layout front-end
 <p align="center">
   <img width="500" src="Home.jpg">
-  <img width="400" src="Pedidos.jpg/"><br>       
-  <img width="400" src="Card.jpg/">
-  
+  <br>      
+  <img width="400" src="Card.jpg/">  
 </P>
 
-
+## Layout mobile
+<p align="center">
+   <img width="400" src="Pedidos.jpg/"><br> 
+</P>         
 
 
