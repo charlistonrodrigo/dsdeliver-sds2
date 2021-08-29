@@ -41,7 +41,7 @@ Não conseguindo acessar o aplicativo pelo link, clone o projeto e na pasta do p
 
 ### Par visualizar a execução do aplicativo web
 
-Clone o projeto em sua maquina, entre na pasta do projeto e pelo terminal execulte o comando npm start.
+Clone o projeto em sua maquina, entre na pasta do projeto em front-web e pelo terminal execulte o comando npm start.
 
 ### Para visualizar a execução do aplicativo mobile
 
